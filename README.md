@@ -1,2 +1,2 @@
-#### Collection of Wishes Punya
+#### Collection of Wishes of Punya
 + Made with React-TS + Tailwindcss
